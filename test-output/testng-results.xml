@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results retried="3" ignored="3" total="36" passed="29" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-25T17:43:01 AEST" name="Orange Automation Test Suite" finished-at="2024-07-25T17:48:27 AEST" duration-ms="325433">
+    <groups>
+    </groups>
+    <test started-at="2024-07-25T17:43:01 AEST" name="Orange Test Cases" finished-at="2024-07-25T17:48:27 AEST" duration-ms="325433">
+      <class name="com.qa.testcases.DashboardTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:43:43 AEST" name="setup" finished-at="2024-07-25T17:43:49 AEST" duration-ms="5920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validatetitle()[pri:1, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:43:49 AEST" name="Validatetitle" finished-at="2024-07-25T17:43:50 AEST" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatetitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:43:50 AEST" name="teardown" finished-at="2024-07-25T17:43:51 AEST" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:43:51 AEST" name="setup" finished-at="2024-07-25T17:43:57 AEST" duration-ms="5926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validateashboard()[pri:2, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:43:57 AEST" name="Validateashboard" finished-at="2024-07-25T17:43:59 AEST" duration-ms="2428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validateashboard -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:43:59 AEST" name="teardown" finished-at="2024-07-25T17:44:00 AEST" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:00 AEST" name="setup" finished-at="2024-07-25T17:44:06 AEST" duration-ms="5817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidatePuchedOut()[pri:3, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:06 AEST" name="ValidatePuchedOut" finished-at="2024-07-25T17:44:07 AEST" duration-ms="1850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatePuchedOut -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:07 AEST" name="teardown" finished-at="2024-07-25T17:44:08 AEST" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:08 AEST" name="setup" finished-at="2024-07-25T17:44:15 AEST" duration-ms="7040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ScrollIntoView()[pri:4, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:15 AEST" name="ScrollIntoView" finished-at="2024-07-25T17:44:15 AEST" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollIntoView -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:15 AEST" name="teardown" finished-at="2024-07-25T17:44:16 AEST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:16 AEST" name="setup" finished-at="2024-07-25T17:44:21 AEST" duration-ms="5232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TimeClick()[pri:5, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:21 AEST" name="TimeClick" finished-at="2024-07-25T17:44:23 AEST" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TimeClick -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.DashboardTest@79d8407f]" started-at="2024-07-25T17:44:23 AEST" name="teardown" finished-at="2024-07-25T17:44:24 AEST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.DashboardTest -->
+      <class name="com.qa.testcases.BuzzTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.BuzzTest@71e9ddb4]" started-at="2024-07-25T17:48:03 AEST" name="setup" finished-at="2024-07-25T17:48:11 AEST" duration-ms="7420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Header()[pri:1, instance:com.qa.testcases.BuzzTest@71e9ddb4]" started-at="2024-07-25T17:48:11 AEST" name="Header" finished-at="2024-07-25T17:48:11 AEST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Header -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.BuzzTest@71e9ddb4]" started-at="2024-07-25T17:48:11 AEST" name="teardown" finished-at="2024-07-25T17:48:12 AEST" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.BuzzTest@71e9ddb4]" started-at="2024-07-25T17:48:12 AEST" name="setup" finished-at="2024-07-25T17:48:20 AEST" duration-ms="7842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Scrolldown()[pri:2, instance:com.qa.testcases.BuzzTest@71e9ddb4]" started-at="2024-07-25T17:48:20 AEST" name="Scrolldown" finished-at="2024-07-25T17:48:26 AEST" duration-ms="6091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scrolldown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.BuzzTest@71e9ddb4]" started-at="2024-07-25T17:48:26 AEST" name="teardown" finished-at="2024-07-25T17:48:26 AEST" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.BuzzTest -->
+      <class name="com.qa.testcases.PerformanceTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:05 AEST" name="setup" finished-at="2024-07-25T17:46:14 AEST" duration-ms="8774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateTitle()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:14 AEST" name="ValidateTitle" finished-at="2024-07-25T17:46:14 AEST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:14 AEST" name="teardown" finished-at="2024-07-25T17:46:14 AEST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:14 AEST" name="setup" finished-at="2024-07-25T17:46:24 AEST" duration-ms="9208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:24 AEST" name="Title" finished-at="2024-07-25T17:46:24 AEST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:24 AEST" name="teardown" finished-at="2024-07-25T17:46:24 AEST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:24 AEST" name="setup" finished-at="2024-07-25T17:46:32 AEST" duration-ms="7782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ManageReview()[pri:2, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:32 AEST" name="ManageReview" finished-at="2024-07-25T17:46:32 AEST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManageReview -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:32 AEST" name="teardown" finished-at="2024-07-25T17:46:33 AEST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:33 AEST" name="setup" finished-at="2024-07-25T17:46:40 AEST" duration-ms="7369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Mytracker()[pri:3, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:40 AEST" name="Mytracker" finished-at="2024-07-25T17:46:43 AEST" duration-ms="2690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mytracker -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:43 AEST" name="teardown" finished-at="2024-07-25T17:46:43 AEST" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:43 AEST" name="setup" finished-at="2024-07-25T17:46:51 AEST" duration-ms="7927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DirClick()[pri:4, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:51 AEST" name="DirClick" finished-at="2024-07-25T17:46:52 AEST" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DirClick -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.PerformanceTest@4e50c791]" started-at="2024-07-25T17:46:52 AEST" name="teardown" finished-at="2024-07-25T17:46:53 AEST" duration-ms="776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.PerformanceTest -->
+      <class name="com.qa.testcases.ClaimTest">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:43:01 AEST" name="setExtent" finished-at="2024-07-25T17:43:01 AEST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:47:31 AEST" name="setup" finished-at="2024-07-25T17:47:39 AEST" duration-ms="8202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Header()[pri:1, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:47:39 AEST" name="Header" finished-at="2024-07-25T17:47:42 AEST" duration-ms="3339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Header -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:47:42 AEST" name="teardown" finished-at="2024-07-25T17:47:43 AEST" duration-ms="413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Header status=SUCCESS method=ClaimTest.Header()[pri:1, instance:com.qa.testcases.ClaimTest@58a9760d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:47:43 AEST" name="setup" finished-at="2024-07-25T17:47:50 AEST" duration-ms="7770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Submit()[pri:2, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:47:50 AEST" name="Submit" finished-at="2024-07-25T17:47:53 AEST" duration-ms="2837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:47:53 AEST" name="teardown" finished-at="2024-07-25T17:47:54 AEST" duration-ms="557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Submit status=SUCCESS method=ClaimTest.Submit()[pri:2, instance:com.qa.testcases.ClaimTest@58a9760d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:47:54 AEST" name="setup" finished-at="2024-07-25T17:48:02 AEST" duration-ms="8230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Buzzclick()[pri:3, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:48:02 AEST" name="Buzzclick" finished-at="2024-07-25T17:48:03 AEST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Buzzclick -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:48:03 AEST" name="teardown" finished-at="2024-07-25T17:48:03 AEST" duration-ms="428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Buzzclick status=SUCCESS method=ClaimTest.Buzzclick()[pri:3, instance:com.qa.testcases.ClaimTest@58a9760d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.qa.testcases.ClaimTest@58a9760d]" started-at="2024-07-25T17:48:26 AEST" name="endReport" finished-at="2024-07-25T17:48:27 AEST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.qa.testcases.ClaimTest -->
+      <class name="com.qa.testcases.TimeTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:24 AEST" name="setup" finished-at="2024-07-25T17:44:32 AEST" duration-ms="8079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateTitle()[pri:1, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:32 AEST" name="ValidateTitle" finished-at="2024-07-25T17:44:32 AEST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:32 AEST" name="teardown" finished-at="2024-07-25T17:44:32 AEST" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:32 AEST" name="setup" finished-at="2024-07-25T17:44:40 AEST" duration-ms="7985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateMyTimeSheet()[pri:2, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:40 AEST" name="validateMyTimeSheet" finished-at="2024-07-25T17:44:41 AEST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMyTimeSheet -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:41 AEST" name="teardown" finished-at="2024-07-25T17:44:41 AEST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:41 AEST" name="setup" finished-at="2024-07-25T17:44:49 AEST" duration-ms="8482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateMyRecords()[pri:3, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:49 AEST" name="ValidateMyRecords" finished-at="2024-07-25T17:44:57 AEST" duration-ms="7238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateMyRecords -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:57 AEST" name="teardown" finished-at="2024-07-25T17:44:57 AEST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:44:57 AEST" name="setup" finished-at="2024-07-25T17:45:06 AEST" duration-ms="8361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MyInfoClick()[pri:4, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:45:06 AEST" name="MyInfoClick" finished-at="2024-07-25T17:45:07 AEST" duration-ms="1157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyInfoClick -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.TimeTest@5fbe4146]" started-at="2024-07-25T17:45:07 AEST" name="teardown" finished-at="2024-07-25T17:45:07 AEST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.TimeTest -->
+      <class name="com.qa.testcases.MyInfoTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:07 AEST" name="setup" finished-at="2024-07-25T17:45:15 AEST" duration-ms="7466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validatetiltile()[pri:1, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:15 AEST" name="Validatetiltile" finished-at="2024-07-25T17:45:15 AEST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatetiltile -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:15 AEST" name="TearDown" finished-at="2024-07-25T17:45:15 AEST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:15 AEST" name="setup" finished-at="2024-07-25T17:45:23 AEST" duration-ms="7560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Username()[pri:2, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:23 AEST" name="Username" finished-at="2024-07-25T17:45:23 AEST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Username -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:23 AEST" name="TearDown" finished-at="2024-07-25T17:45:23 AEST" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:23 AEST" name="setup" finished-at="2024-07-25T17:45:32 AEST" duration-ms="8383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DetailsPage()[pri:3, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:32 AEST" name="DetailsPage" finished-at="2024-07-25T17:45:36 AEST" duration-ms="4053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DetailsPage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:36 AEST" name="TearDown" finished-at="2024-07-25T17:45:36 AEST" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:36 AEST" name="setup" finished-at="2024-07-25T17:45:44 AEST" duration-ms="8088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AllDetails()[pri:4, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:44 AEST" name="AllDetails" finished-at="2024-07-25T17:45:55 AEST" duration-ms="10481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllDetails -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:55 AEST" name="TearDown" finished-at="2024-07-25T17:45:55 AEST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:45:55 AEST" name="setup" finished-at="2024-07-25T17:46:03 AEST" duration-ms="8052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Perfomanceclick()[pri:5, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:46:03 AEST" name="Perfomanceclick" finished-at="2024-07-25T17:46:05 AEST" duration-ms="1286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Perfomanceclick -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.testcases.MyInfoTest@1e66f1f5]" started-at="2024-07-25T17:46:05 AEST" name="TearDown" finished-at="2024-07-25T17:46:05 AEST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.testcases.MyInfoTest -->
+      <class name="com.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:01 AEST" name="setExtent" finished-at="2024-07-25T17:43:01 AEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:01 AEST" name="setup" finished-at="2024-07-25T17:43:11 AEST" duration-ms="9288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateTitle()[pri:1, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:11 AEST" name="ValidateTitle" finished-at="2024-07-25T17:43:11 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:11 AEST" name="teardown" finished-at="2024-07-25T17:43:11 AEST" duration-ms="608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateTitle status=SUCCESS method=LoginTest.ValidateTitle()[pri:1, instance:com.qa.testcases.LoginTest@609cd4d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:11 AEST" name="setup" finished-at="2024-07-25T17:43:17 AEST" duration-ms="5539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:17 AEST" name="Login" finished-at="2024-07-25T17:43:18 AEST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:18 AEST" name="teardown" finished-at="2024-07-25T17:43:18 AEST" duration-ms="449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login status=SUCCESS method=LoginTest.Login()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:18 AEST" name="setup" finished-at="2024-07-25T17:43:24 AEST" duration-ms="5632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="ValidateLogo()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:24 AEST" name="ValidateLogo" finished-at="2024-07-25T17:43:24 AEST" duration-ms="268" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:1067)
+at org.testng.Assert.assertEquals(Assert.java:1031)
+at org.testng.Assert.assertEquals(Assert.java:1077)
+at com.qa.testcases.LoginTest.ValidateLogo(LoginTest.java:72)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogo -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:24 AEST" name="teardown" finished-at="2024-07-25T17:43:25 AEST" duration-ms="591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateLogo status=SKIP method=LoginTest.ValidateLogo()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:25 AEST" name="setup" finished-at="2024-07-25T17:43:30 AEST" duration-ms="5288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="ValidateLogo()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:30 AEST" name="ValidateLogo" finished-at="2024-07-25T17:43:30 AEST" duration-ms="362" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:1067)
+at org.testng.Assert.assertEquals(Assert.java:1031)
+at org.testng.Assert.assertEquals(Assert.java:1077)
+at com.qa.testcases.LoginTest.ValidateLogo(LoginTest.java:72)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogo -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:30 AEST" name="teardown" finished-at="2024-07-25T17:43:31 AEST" duration-ms="515" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateLogo status=SKIP method=LoginTest.ValidateLogo()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:31 AEST" name="setup" finished-at="2024-07-25T17:43:36 AEST" duration-ms="5312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="ValidateLogo()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:36 AEST" name="ValidateLogo" finished-at="2024-07-25T17:43:36 AEST" duration-ms="366" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:1067)
+at org.testng.Assert.assertEquals(Assert.java:1031)
+at org.testng.Assert.assertEquals(Assert.java:1077)
+at com.qa.testcases.LoginTest.ValidateLogo(LoginTest.java:72)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogo -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:36 AEST" name="teardown" finished-at="2024-07-25T17:43:37 AEST" duration-ms="419" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateLogo status=SKIP method=LoginTest.ValidateLogo()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:37 AEST" name="setup" finished-at="2024-07-25T17:43:42 AEST" duration-ms="5511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateLogo()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:42 AEST" name="ValidateLogo" finished-at="2024-07-25T17:43:43 AEST" duration-ms="322" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:1067)
+at org.testng.Assert.assertEquals(Assert.java:1031)
+at org.testng.Assert.assertEquals(Assert.java:1077)
+at com.qa.testcases.LoginTest.ValidateLogo(LoginTest.java:72)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogo -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:43:43 AEST" name="teardown" finished-at="2024-07-25T17:43:43 AEST" duration-ms="820" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateLogo status=FAILURE method=LoginTest.ValidateLogo()[pri:2, instance:com.qa.testcases.LoginTest@609cd4d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.qa.testcases.LoginTest@609cd4d8]" started-at="2024-07-25T17:48:27 AEST" name="endReport" finished-at="2024-07-25T17:48:27 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.qa.testcases.LoginTest -->
+      <class name="com.qa.testcases.DirectoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:46:53 AEST" name="setup" finished-at="2024-07-25T17:47:00 AEST" duration-ms="7437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Title()[pri:1, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:47:00 AEST" name="Title" finished-at="2024-07-25T17:47:00 AEST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:47:00 AEST" name="teardown" finished-at="2024-07-25T17:47:01 AEST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:47:01 AEST" name="setup" finished-at="2024-07-25T17:47:08 AEST" duration-ms="7302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Search()[pri:2, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:47:08 AEST" name="Search" finished-at="2024-07-25T17:47:21 AEST" duration-ms="12871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:47:21 AEST" name="teardown" finished-at="2024-07-25T17:47:21 AEST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:47:21 AEST" name="setup" finished-at="2024-07-25T17:47:29 AEST" duration-ms="7106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClaimClick()[pri:3, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:47:29 AEST" name="ClaimClick" finished-at="2024-07-25T17:47:30 AEST" duration-ms="1439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClaimClick -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.DirectoryTest@7530ad9c]" started-at="2024-07-25T17:47:30 AEST" name="teardown" finished-at="2024-07-25T17:47:31 AEST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.DirectoryTest -->
+    </test> <!-- Orange Test Cases -->
+  </suite> <!-- Orange Automation Test Suite -->
+</testng-results>
